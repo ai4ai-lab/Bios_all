@@ -1,4 +1,4 @@
-I am a first year PhD student in the Electrical and Electronic Engineering department from Imperial College London. I am supervised by Prof. Sonali Parbhoo, who leads the Artificial Intelligence for Actionable Impact (AI4AI) laboratory.
+I am a first year PhD student in the Electrical and Electronic Engineering department at Imperial College London. I am supervised by Prof. Sonali Parbhoo, who leads the Artificial Intelligence for Actionable Impact (AI4AI) laboratory.
 My broad research interests lie in Reinforcement Learning, with granular specifics towards Off Policy Evaluation, Inverse Reinforcement Learning, Theoretical Guarantees and Interpretable RL. 
 Prior to joining Imperial in April 2024, I graduated from Indian Institute of Technology, Guwahati in 2021 with a major in Chemical Engineering with a minor in Mathematics. 
 Post August 2021, I worked as a researcher at Tata Research Development and Design Center (TRDDC) in Pune, India, with research focused towards developing Foundational Models for Partial Differential Equations.
